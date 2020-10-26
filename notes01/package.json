@@ -1,0 +1,23 @@
+{
+  "name": "notes01",
+  "version": "1.0.0",
+  "description": "Notes playing around 001",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NoteDir"
+  },
+  "keywords": [
+    "Note"
+  ],
+  "author": "me",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "validator": "^13.1.17",
+    "yargs": "^16.0.3"
+  }
+}
